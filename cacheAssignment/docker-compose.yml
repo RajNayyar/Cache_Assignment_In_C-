@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  cacheassignment:
+    image: cacheassignment
+    build:
+      context: .\cacheAssignment
+      dockerfile: Dockerfile

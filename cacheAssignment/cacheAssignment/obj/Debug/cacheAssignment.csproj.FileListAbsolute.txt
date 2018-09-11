@@ -1,0 +1,7 @@
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\bin\Debug\cacheAssignment.exe.config
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\bin\Debug\cacheAssignment.exe
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\bin\Debug\cacheAssignment.pdb
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\obj\Debug\cacheAssignment.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\obj\Debug\cacheAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\obj\Debug\cacheAssignment.exe
+C:\Users\rnayyar\Desktop\cacheAssignment\cacheAssignment\obj\Debug\cacheAssignment.pdb
